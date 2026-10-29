@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FCE9E1"/><stop offset="1" stop-color="#EDE8F7"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#g)"/>
+<circle cx="980" cy="170" r="120" fill="#FFF3D6"/>
+<ellipse cx="600" cy="860" rx="620" ry="120" fill="#fff" opacity=".6"/>
+<g opacity=".55" fill="#fff"><ellipse cx="220" cy="180" rx="110" ry="40"/><ellipse cx="300" cy="160" rx="80" ry="45"/></g>
+
+<g transform="translate(330 600) scale(1.15)">
+  <circle cx="0" cy="-170" r="58" fill="#F1CDB3"/>
+  <path d="M-60 -195 Q0 -260 60 -195 Q40 -225 0 -228 Q-40 -225 -60 -195Z" fill="#7A5A48"/>
+  <path d="M-70 -100 Q0 -80 70 -100 L120 -40 L90 -10 L60 -40 L90 160 L-90 160 L-60 -40 L-90 -10 L-120 -40 Z" fill="#F4C9C1"/>
+  <rect x="-55" y="160" width="40" height="110" rx="18" fill="#F1CDB3"/>
+  <rect x="15" y="160" width="40" height="110" rx="18" fill="#F1CDB3"/>
+</g>
+
+<g transform="translate(620 560) scale(1.35)">
+  <circle cx="0" cy="-170" r="58" fill="#E9C1A4"/>
+  <path d="M-60 -195 Q0 -260 60 -195 Q40 -225 0 -228 Q-40 -225 -60 -195Z" fill="#7A5A48"/>
+  <path d="M-70 -100 Q0 -80 70 -100 L120 -40 L90 -10 L60 -40 L90 160 L-90 160 L-60 -40 L-90 -10 L-120 -40 Z" fill="#B9CDB4"/>
+  <rect x="-55" y="160" width="40" height="110" rx="18" fill="#E9C1A4"/>
+  <rect x="15" y="160" width="40" height="110" rx="18" fill="#E9C1A4"/>
+</g>
+
+<g transform="translate(900 640) scale(1)">
+  <circle cx="0" cy="-170" r="58" fill="#F1CDB3"/>
+  <path d="M-60 -195 Q0 -260 60 -195 Q40 -225 0 -228 Q-40 -225 -60 -195Z" fill="#7A5A48"/>
+  <path d="M-70 -100 Q0 -80 70 -100 L120 -40 L90 -10 L60 -40 L90 160 L-90 160 L-60 -40 L-90 -10 L-120 -40 Z" fill="#D9CCF0"/>
+  <rect x="-55" y="160" width="40" height="110" rx="18" fill="#F1CDB3"/>
+  <rect x="15" y="160" width="40" height="110" rx="18" fill="#F1CDB3"/>
+</g>
+<text x="600" y="880" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="26" fill="#B49A8C" letter-spacing="6">BU YERGA FOTO · ЗДЕСЬ БУДЕТ ФОТО</text>
+</svg>

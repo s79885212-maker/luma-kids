@@ -1,0 +1,270 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "catalog": "Katalog",
+    "sizes": "O'lchamlar",
+    "wholesale": "Ulgurji va buyurtma",
+    "delivery": "Yetkazib berish",
+    "about": "Biz haqimizda",
+    "contacts": "Kontaktlar",
+    "menu": "Menyu",
+    "close": "Yopish"
+  },
+  "common": {
+    "currency": "so'm",
+    "order": "Buyurtma berish",
+    "writeTelegram": "Telegramga yozish",
+    "toCatalog": "Katalog",
+    "seeAll": "Hammasini ko'rish",
+    "new": "Yangi",
+    "hit": "Xit",
+    "sale": "Chegirma",
+    "from": "dan",
+    "pcs": "dona",
+    "cm": "sm",
+    "langLabel": "Til"
+  },
+  "categories": {
+    "girls": "Qizlar",
+    "boys": "O'g'il bolalar",
+    "babies": "Chaqaloqlar",
+    "school": "Maktab kiyimi"
+  },
+  "home": {
+    "heroTitle": "Bolalaringiz uchun mehr bilan tikilgan kiyimlar",
+    "heroSubtitle": "Samarqanddagi o'z tikuv sexemizda 2 yoshdan 12 yoshgacha bolalar uchun trikotaj kiyimlar — sifatli va hamyonbop.",
+    "heroCta": "Katalog",
+    "heroSecondary": "Ulgurji buyurtma",
+    "benefitsTitle": "Nega Luma Kids?",
+    "benefits": [
+      {
+        "title": "O'z ishlab chiqarishimiz",
+        "text": "Samarqanddagi sexemizda, Yangi bozor yaqinida, kuniga 500–600 ta kiyim tikamiz."
+      },
+      {
+        "title": "Trikotaj matolar",
+        "text": "Futer, interlok, kulirka va kashkorse — har kungi qulay bolalar kiyimi uchun."
+      },
+      {
+        "title": "O'zbekiston bo'ylab yetkazish",
+        "text": "Samarqand bo'ylab va viloyatlarga — BTS va Yandex Yetkazib berish orqali."
+      }
+    ],
+    "newTitle": "Yangi kolleksiya",
+    "hitsTitle": "Xaridorlar tanlovi",
+    "reviewsTitle": "Ota-onalar fikri",
+    "reviews": [],
+    "instagramTitle": "Bizni Instagramda kuzating",
+    "instagramText": "Yangi modellar va sexdan lavhalar — Instagram sahifamizda.",
+    "instagramCta": "Obuna bo'lish",
+    "wholesaleTitle": "Do'konlar, bog'chalar va maktablar uchun",
+    "wholesaleText": "Ulgurji narxlar, logotip tushirish va buyurtma asosida tikish.",
+    "wholesaleCta": "Batafsil"
+  },
+  "catalog": {
+    "title": "Katalog",
+    "subtitle": "Qizlar, o'g'il bolalar, chaqaloqlar va maktab uchun kiyimlar",
+    "filters": "Filtrlar",
+    "category": "Kategoriya",
+    "all": "Hammasi",
+    "size": "Bo'y / yosh",
+    "anySize": "Istalgan o'lcham",
+    "price": "Narx",
+    "priceFrom": "dan",
+    "priceTo": "gacha",
+    "sort": "Saralash",
+    "sortNew": "Avval yangilari",
+    "sortPopular": "Ommabop",
+    "sortPriceAsc": "Arzonroq",
+    "sortPriceDesc": "Qimmatroq",
+    "reset": "Tozalash",
+    "apply": "Ko'rsatish",
+    "nothing": "Bu filtrlar bo'yicha hech narsa topilmadi.",
+    "found": "Topildi"
+  },
+  "product": {
+    "size": "O'lcham",
+    "color": "Rang",
+    "composition": "Tarkibi",
+    "care": "Parvarish",
+    "description": "Tavsif",
+    "sizeChart": "O'lchamlar jadvali",
+    "chooseSize": "O'lchamni tanlang",
+    "related": "Sizga yoqishi mumkin",
+    "telegramText": "Assalomu alaykum! Menga «{name}» ({price}) yoqdi. O'lcham: {size}, rang: {color}. Mavjudmi?",
+    "inStock": "Buyurtma bo'yicha tikiladi yoki omborda mavjud",
+    "breadcrumbHome": "Bosh sahifa"
+  },
+  "form": {
+    "title": "Buyurtma berish",
+    "name": "Ismingiz",
+    "phone": "Telefon",
+    "city": "Shahar",
+    "size": "O'lcham",
+    "color": "Rang",
+    "quantity": "Soni",
+    "comment": "Izoh",
+    "commentPlaceholder": "Masalan: sovg'a uchun, qadoqlab bering",
+    "submit": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Rahmat! Arizangiz qabul qilindi. Tez orada siz bilan bog'lanamiz.",
+    "error": "Xatolik yuz berdi. Iltimos, qayta urinib ko'ring yoki Telegramga yozing.",
+    "required": "Majburiy maydon",
+    "phoneInvalid": "Telefon raqamini to'liq kiriting",
+    "privacy": "Yuborish orqali siz shaxsiy ma'lumotlaringizni qayta ishlashga rozilik bildirasiz."
+  },
+  "sizes": {
+    "title": "O'lchamlar jadvali",
+    "intro": "O'lchamni bolaning bo'yi bo'yicha tanlang. Agar bola ikki o'lcham orasida bo'lsa — kattarog'ini oling.",
+    "age": "Yosh",
+    "height": "Bo'y, sm",
+    "chest": "Ko'krak aylanasi, sm",
+    "waist": "Bel aylanasi, sm",
+    "howToTitle": "Qanday o'lchash kerak?",
+    "howTo": [
+      "Bo'y — boshning tepasidan tovongacha, bola devorga suyanib, poyabzalsiz turadi.",
+      "Ko'krak aylanasi — ko'krakning eng chiqib turgan nuqtalari bo'yicha, qo'ltiq ostidan.",
+      "Bel aylanasi — belning eng ingichka joyi bo'yicha, santimetr lentani tortmasdan."
+    ],
+    "help": "O'lchamni tanlashda yordam kerakmi? Bizga Telegramda yozing."
+  },
+  "wholesale": {
+    "title": "Ulgurji va buyurtma asosida tikish",
+    "intro": "O'z sexemizda bolalar trikotaj kiyimlarini ulgurji va buyurtma asosida tikamiz: pijamalar, svitshotlar, xudilar, sport kostyumlari, jiletlar.",
+    "forWhomTitle": "Kimlar uchun",
+    "forWhom": [
+      {
+        "title": "Do'konlar va marketpleyslar",
+        "text": "Katalogdagi modellar ulgurji narxlarda."
+      },
+      {
+        "title": "Bolalar bog'chalari",
+        "text": "Pijamalar, sport kiyimi, xudilar — bog'cha logotipi bilan."
+      },
+      {
+        "title": "Maktablar",
+        "text": "Sport kostyumlari, svitshotlar va xudilar maktab logotipi bilan."
+      }
+    ],
+    "termsTitle": "Shartlar",
+    "terms": [
+      {
+        "title": "Ishlab chiqarish",
+        "text": "Kuniga {capacity} ta kiyimgacha"
+      },
+      {
+        "title": "Yoshi",
+        "text": "{ages} yoshli bolalar uchun"
+      },
+      {
+        "title": "Logotip tushirish",
+        "text": "Kelishuv asosida"
+      },
+      {
+        "title": "Partiya va muddatlar",
+        "text": "Hajmiga qarab kelishamiz"
+      }
+    ],
+    "formTitle": "Ulgurji ariza",
+    "company": "Kompaniya / tashkilot",
+    "contactName": "Aloqa uchun shaxs",
+    "volume": "Hajmi (taxminan, dona)",
+    "need": "Nima kerak?",
+    "needPlaceholder": "Model, o'lchamlar, logotip, muddatlar..."
+  },
+  "delivery": {
+    "title": "Yetkazib berish va to'lov",
+    "deliveryTitle": "Yetkazib berish",
+    "items": [
+      {
+        "title": "Samarqand bo'ylab",
+        "text": "Kuryer orqali. Narx va vaqtini menejer bilan kelishing."
+      },
+      {
+        "title": "O'zbekiston bo'ylab — BTS",
+        "text": "Barcha viloyatlarga. Narx BTS tariflari bo'yicha."
+      },
+      {
+        "title": "Yandex Yetkazib berish",
+        "text": "Toshkent va boshqa shaharlarga."
+      },
+      {
+        "title": "O'zi olib ketish",
+        "text": "Samarqanddagi sexdan, Yangi bozor yaqinida — oldindan kelishib."
+      }
+    ],
+    "paymentTitle": "To'lov",
+    "payments": [
+      {
+        "title": "Click",
+        "text": "Ilova orqali karta bilan to'lov"
+      },
+      {
+        "title": "Payme",
+        "text": "Karta bilan tez to'lov"
+      },
+      {
+        "title": "Naqd pul",
+        "text": "Kuryerga yoki o'zi olib ketishda"
+      }
+    ],
+    "returnTitle": "Almashtirish",
+    "returnText": "O'lcham to'g'ri kelmasa — almashtirish bo'yicha menejerga yozing."
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "lead": "Luma Kids — Samarqanddagi tikuv sexi, Yangi bozor yaqinida. 2 yoshdan 12 yoshgacha bolalar uchun kundalik trikotaj kiyimlar tikamiz.",
+    "story": [
+      "Biz pijamalar, svitshotlar, xudilar, sport kostyumlari, jiletlar va boshqa trikotaj kiyimlarni tikamiz. Modellarning ko'pi uniseks.",
+      "Futer (ikki va uch ipli), interlok, kulirka va kashkorse matolaridan foydalanamiz — yengil kundalik kiyimdan tortib issiqroq modellargacha.",
+      "Sifat va hamyonbop narx uyg'unligiga e'tibor beramiz. Kiyimlarimizni Telegram, Instagram va Uzum orqali sotamiz, ulgurji buyurtmalarni ham qabul qilamiz."
+    ],
+    "stats": [
+      {
+        "value": "500–600",
+        "label": "kiyim kuniga"
+      },
+      {
+        "value": "~20",
+        "label": "tikuvchi va usta"
+      },
+      {
+        "value": "2–12",
+        "label": "yosh"
+      }
+    ],
+    "productionTitle": "Bizning ishlab chiqarish"
+  },
+  "contacts": {
+    "title": "Kontaktlar",
+    "phone": "Telefon",
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "address": "Manzil",
+    "hours": "Ish vaqti",
+    "email": "Email",
+    "mapTitle": "Xaritada"
+  },
+  "footer": {
+    "tagline": "Samarqanddan mehr bilan tikilgan bolalar kiyimi",
+    "pages": "Sahifalar",
+    "contacts": "Kontaktlar",
+    "rights": "Barcha huquqlar himoyalangan."
+  },
+  "meta": {
+    "homeTitle": "Luma Kids — Samarqanddan bolalar kiyimi",
+    "homeDescription": "2 yoshdan 12 yoshgacha bolalar uchun trikotaj kiyimlar: pijamalar, svitshotlar, xudilar, sport kostyumlari. Samarqanddagi tikuv sexi, O'zbekiston bo'ylab yetkazib berish.",
+    "catalogTitle": "Bolalar kiyimi katalogi",
+    "catalogDescription": "Pijamalar, svitshotlar, xudilar va sport kostyumlari — narxlar so'mda, O'zbekiston bo'ylab yetkazib berish.",
+    "sizesTitle": "Bolalar kiyimi o'lchamlari jadvali",
+    "sizesDescription": "Yosh, bo'y, ko'krak va bel aylanasi bo'yicha o'lchamlar jadvali.",
+    "wholesaleTitle": "Bolalar kiyimi ulgurji va buyurtma asosida tikish",
+    "wholesaleDescription": "Bolalar trikotaj kiyimlari ulgurji: kuniga 500–600 ta kiyim, logotip tushirish, Samarqanddagi ishlab chiqarish.",
+    "deliveryTitle": "Yetkazib berish va to'lov",
+    "deliveryDescription": "Samarqand va O'zbekiston bo'ylab yetkazib berish: BTS, Yandex. To'lov: Click, Payme, naqd.",
+    "aboutTitle": "Biz haqimizda — Luma Kids tikuv sexi",
+    "aboutDescription": "Samarqanddagi tikuv sexi, Yangi bozor yaqinida: assortiment, matolar va ishlab chiqarish.",
+    "contactsTitle": "Kontaktlar",
+    "contactsDescription": "Telefon, Telegram, Instagram, manzil va ish vaqti."
+  }
+}

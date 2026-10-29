@@ -1,0 +1,5 @@
+# Не загружаем на Vercel исходники фото и локальные файлы
+/brand/
+.env*.local
+.claude/
+scripts/

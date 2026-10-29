@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<rect width="800" height="1000" fill="#FFF6E5"/>
+<circle cx="650" cy="150" r="90" fill="#fff" opacity=".55"/>
+<circle cx="130" cy="880" r="130" fill="#fff" opacity=".45"/>
+<g fill="#F7EFE3"><path d="M330 220 Q400 260 470 220 L580 270 L630 420 L560 440 L540 400 L560 640 Q520 760 430 760 L400 700 L370 760 Q280 760 240 640 L260 400 L240 440 L170 420 L220 270 Z"/><g fill="#fff" opacity=".85"><circle cx="400" cy="330" r="9"/><circle cx="400" cy="400" r="9"/><circle cx="400" cy="470" r="9"/></g><path d="M420 520 l12 26 28 4 -20 20 5 28 -25 -13 -25 13 5 -28 -20 -20 28 -4z" fill="#fff" opacity=".8"/></g>
+<text x="400" y="930" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="30" fill="#B49A8C" letter-spacing="4">LUMA KIDS · FOTO</text>
+</svg>

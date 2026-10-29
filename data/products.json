@@ -1,0 +1,749 @@
+[
+  {
+    "id": "13",
+    "slug": "pajama-sweet-dreams",
+    "category": "girls",
+    "name": {
+      "uz": "Pijama «Sweet Dreams»",
+      "ru": "Пижама «Sweet Dreams»"
+    },
+    "description": {
+      "uz": "Trikotaj pijama: ko'ylak va shim. Yoqasi va tugmalari bor, naqshi — shirin hayvonchalar.",
+      "ru": "Трикотажная пижама: рубашка и брюки. С воротником и пуговицами, принт — милые зверята."
+    },
+    "price": 179000,
+    "sizes": [
+      98,
+      104,
+      110,
+      116,
+      122,
+      128,
+      134
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Lavanda",
+          "ru": "Лавандовый"
+        },
+        "hex": "#D9CCF0"
+      },
+      {
+        "name": {
+          "uz": "Pushti",
+          "ru": "Розовый"
+        },
+        "hex": "#F6C6D3"
+      }
+    ],
+    "composition": {
+      "uz": "Trikotaj: kulirka",
+      "ru": "Трикотаж: кулирка"
+    },
+    "care": {
+      "uz": "30°C da yuvish, teskari tomondan dazmollash",
+      "ru": "Стирка при 30°C, гладить с изнанки"
+    },
+    "images": [
+      "/images/products/real-0278.jpg",
+      "/images/products/real-0261.jpg"
+    ],
+    "isNew": true,
+    "isHit": true,
+    "createdAt": "2026-10-24"
+  },
+  {
+    "id": "14",
+    "slug": "tracksuit-lavender",
+    "category": "girls",
+    "name": {
+      "uz": "Sport kostyumi «Lavanda»",
+      "ru": "Спортивный костюм «Лаванда»"
+    },
+    "description": {
+      "uz": "Zamokli olimpiyka va lampasli shim. Lavanda, oq va to'q ko'k ranglar uyg'unligi.",
+      "ru": "Олимпийка на молнии и брюки с лампасами. Сочетание лавандового, белого и тёмно-синего."
+    },
+    "price": 259000,
+    "sizes": [
+      104,
+      110,
+      116,
+      122,
+      128,
+      134,
+      140
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Lavanda / to'q ko'k",
+          "ru": "Лавандовый / тёмно-синий"
+        },
+        "hex": "#C8B3EC"
+      }
+    ],
+    "composition": {
+      "uz": "Trikotaj: futer, manjetlar — kashkorse",
+      "ru": "Трикотаж: футер, манжеты — кашкорсе"
+    },
+    "care": {
+      "uz": "Teskari tomonidan 30°C da yuvish",
+      "ru": "Стирка при 30°C с изнанки"
+    },
+    "images": [
+      "/images/products/real-0046.jpg"
+    ],
+    "isNew": true,
+    "isHit": false,
+    "createdAt": "2026-10-23"
+  },
+  {
+    "id": "1",
+    "slug": "muslin-dress-bloom",
+    "category": "girls",
+    "name": {
+      "uz": "Muslin ko'ylak «Bloom»",
+      "ru": "Муслиновое платье «Bloom»"
+    },
+    "description": {
+      "uz": "Yengil va havo o'tkazadigan muslin ko'ylak. Issiq kunlar va bayramlar uchun ideal — bolaga erkin harakat qilish imkonini beradi.",
+      "ru": "Лёгкое и дышащее муслиновое платье. Идеально для жарких дней и праздников — не сковывает движений."
+    },
+    "price": 189000,
+    "oldPrice": 219000,
+    "sizes": [
+      92,
+      98,
+      104,
+      110,
+      116,
+      122
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Pudra",
+          "ru": "Пудровый"
+        },
+        "hex": "#F4C9C1"
+      },
+      {
+        "name": {
+          "uz": "Sut rang",
+          "ru": "Молочный"
+        },
+        "hex": "#F7EFE3"
+      }
+    ],
+    "composition": {
+      "uz": "100% paxta (muslin)",
+      "ru": "100% хлопок (муслин)"
+    },
+    "care": {
+      "uz": "30°C da yuvish, siqmasdan quritish, past haroratda dazmollash",
+      "ru": "Стирка при 30°C, сушить без отжима, гладить при низкой температуре"
+    },
+    "images": [
+      "/images/products/muslin-dress-bloom-1.svg",
+      "/images/products/muslin-dress-bloom-2.svg",
+      "/images/products/muslin-dress-bloom-3.svg"
+    ],
+    "isNew": true,
+    "isHit": true,
+    "createdAt": "2026-10-10"
+  },
+  {
+    "id": "2",
+    "slug": "knit-cardigan-cloud",
+    "category": "girls",
+    "name": {
+      "uz": "To'qilgan kardigan «Cloud»",
+      "ru": "Вязаный кардиган «Cloud»"
+    },
+    "description": {
+      "uz": "Yumshoq to'qilgan kardigan, tugmalari bilan. Ko'ylak va futbolka bilan yaxshi mos keladi.",
+      "ru": "Мягкий вязаный кардиган на пуговицах. Отлично сочетается с платьями и футболками."
+    },
+    "price": 229000,
+    "sizes": [
+      98,
+      104,
+      110,
+      116,
+      122,
+      128
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Lavanda",
+          "ru": "Лавандовый"
+        },
+        "hex": "#D9CCF0"
+      },
+      {
+        "name": {
+          "uz": "Krem",
+          "ru": "Кремовый"
+        },
+        "hex": "#F3E6D0"
+      }
+    ],
+    "composition": {
+      "uz": "70% paxta, 30% akril",
+      "ru": "70% хлопок, 30% акрил"
+    },
+    "care": {
+      "uz": "Qo'lda yoki nozik rejimda 30°C da yuvish, gorizontal holatda quritish",
+      "ru": "Ручная или деликатная стирка при 30°C, сушить в горизонтальном положении"
+    },
+    "images": [
+      "/images/products/knit-cardigan-cloud-1.svg",
+      "/images/products/knit-cardigan-cloud-2.svg"
+    ],
+    "isNew": true,
+    "isHit": false,
+    "createdAt": "2026-10-05"
+  },
+  {
+    "id": "3",
+    "slug": "skirt-tutu-petal",
+    "category": "girls",
+    "name": {
+      "uz": "Fatin yubka «Petal»",
+      "ru": "Юбка из фатина «Petal»"
+    },
+    "description": {
+      "uz": "Ko'p qatlamli yumshoq fatin yubka, paxta astarli. Bel qismi elastik.",
+      "ru": "Многослойная юбка из мягкого фатина с хлопковой подкладкой. Пояс на резинке."
+    },
+    "price": 149000,
+    "sizes": [
+      92,
+      98,
+      104,
+      110,
+      116
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Pushti",
+          "ru": "Розовый"
+        },
+        "hex": "#F6C6D3"
+      },
+      {
+        "name": {
+          "uz": "Yalpiz",
+          "ru": "Мятный"
+        },
+        "hex": "#CBE8DD"
+      }
+    ],
+    "composition": {
+      "uz": "Fatin 100% poliamid, astar 100% paxta",
+      "ru": "Фатин 100% полиамид, подкладка 100% хлопок"
+    },
+    "care": {
+      "uz": "Qo'lda 30°C da yuvish, dazmollamaslik",
+      "ru": "Ручная стирка при 30°C, не гладить"
+    },
+    "images": [
+      "/images/products/skirt-tutu-petal-1.svg",
+      "/images/products/skirt-tutu-petal-2.svg"
+    ],
+    "isNew": false,
+    "isHit": true,
+    "createdAt": "2026-08-20"
+  },
+  {
+    "id": "4",
+    "slug": "hoodie-explorer",
+    "category": "boys",
+    "name": {
+      "uz": "Xudi «Explorer»",
+      "ru": "Худи «Explorer»"
+    },
+    "description": {
+      "uz": "Issiq futer xudi, kapyushon va kenguru cho'ntak bilan. Kuz va bahor uchun.",
+      "ru": "Тёплое худи из футера с капюшоном и карманом-кенгуру. Для осени и весны."
+    },
+    "price": 249000,
+    "sizes": [
+      104,
+      110,
+      116,
+      122,
+      128,
+      134,
+      140
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Shalfey",
+          "ru": "Шалфей"
+        },
+        "hex": "#B9CDB4"
+      },
+      {
+        "name": {
+          "uz": "Qum rang",
+          "ru": "Песочный"
+        },
+        "hex": "#E3D2B8"
+      },
+      {
+        "name": {
+          "uz": "Ko'k",
+          "ru": "Голубой"
+        },
+        "hex": "#BFD7EA"
+      }
+    ],
+    "composition": {
+      "uz": "Futer: 80% paxta, 20% poliester",
+      "ru": "Футер: 80% хлопок, 20% полиэстер"
+    },
+    "care": {
+      "uz": "Teskari tomonidan 30°C da yuvish, oqartirmaslik",
+      "ru": "Стирка при 30°C с изнанки, не отбеливать"
+    },
+    "images": [
+      "/images/products/hoodie-explorer-1.svg",
+      "/images/products/hoodie-explorer-2.svg",
+      "/images/products/hoodie-explorer-3.svg"
+    ],
+    "isNew": true,
+    "isHit": true,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "5",
+    "slug": "tshirt-little-bear",
+    "category": "boys",
+    "name": {
+      "uz": "Futbolka «Little Bear»",
+      "ru": "Футболка «Little Bear»"
+    },
+    "description": {
+      "uz": "Kulirka paxtadan futbolka, ayiqcha naqshi bilan. Har kungi kiyim uchun.",
+      "ru": "Футболка из хлопковой кулирки с принтом-мишкой. На каждый день."
+    },
+    "price": 89000,
+    "sizes": [
+      92,
+      98,
+      104,
+      110,
+      116,
+      122,
+      128
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Oq",
+          "ru": "Белый"
+        },
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": {
+          "uz": "Ko'k",
+          "ru": "Голубой"
+        },
+        "hex": "#BFD7EA"
+      }
+    ],
+    "composition": {
+      "uz": "100% paxta (kulirka)",
+      "ru": "100% хлопок (кулирка)"
+    },
+    "care": {
+      "uz": "40°C da yuvish, naqshni teskari tomondan dazmollash",
+      "ru": "Стирка при 40°C, принт гладить с изнанки"
+    },
+    "images": [
+      "/images/products/tshirt-little-bear-1.svg",
+      "/images/products/tshirt-little-bear-2.svg"
+    ],
+    "isNew": false,
+    "isHit": true,
+    "createdAt": "2026-07-15"
+  },
+  {
+    "id": "6",
+    "slug": "jogger-pants-sunny",
+    "category": "boys",
+    "name": {
+      "uz": "Jogger shim «Sunny»",
+      "ru": "Брюки-джоггеры «Sunny»"
+    },
+    "description": {
+      "uz": "Qulay jogger shim, bel va oyoq qismi rezinkali. Faol o'yinlar uchun.",
+      "ru": "Удобные джоггеры с резинкой на поясе и манжетах. Для активных игр."
+    },
+    "price": 139000,
+    "sizes": [
+      98,
+      104,
+      110,
+      116,
+      122,
+      128,
+      134
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Bej",
+          "ru": "Бежевый"
+        },
+        "hex": "#E6D5BF"
+      },
+      {
+        "name": {
+          "uz": "Grafit",
+          "ru": "Графит"
+        },
+        "hex": "#8E949C"
+      }
+    ],
+    "composition": {
+      "uz": "95% paxta, 5% elastan",
+      "ru": "95% хлопок, 5% эластан"
+    },
+    "care": {
+      "uz": "30°C da yuvish, mashinada quritmaslik",
+      "ru": "Стирка при 30°C, не сушить в машине"
+    },
+    "images": [
+      "/images/products/jogger-pants-sunny-1.svg",
+      "/images/products/jogger-pants-sunny-2.svg"
+    ],
+    "isNew": false,
+    "isHit": false,
+    "createdAt": "2026-06-30"
+  },
+  {
+    "id": "7",
+    "slug": "romper-sleepy-star",
+    "category": "babies",
+    "name": {
+      "uz": "Kombinezon «Sleepy Star»",
+      "ru": "Комбинезон «Sleepy Star»"
+    },
+    "description": {
+      "uz": "Chaqaloqlar uchun yumshoq interlok kombinezon, oldidan kopkalar bilan — kiyintirish oson.",
+      "ru": "Мягкий комбинезон из интерлока для малышей, на кнопках спереди — легко переодевать."
+    },
+    "price": 159000,
+    "sizes": [
+      56,
+      62,
+      68,
+      74,
+      80,
+      86
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Sut rang",
+          "ru": "Молочный"
+        },
+        "hex": "#F7EFE3"
+      },
+      {
+        "name": {
+          "uz": "Yalpiz",
+          "ru": "Мятный"
+        },
+        "hex": "#CBE8DD"
+      }
+    ],
+    "composition": {
+      "uz": "100% paxta (interlok)",
+      "ru": "100% хлопок (интерлок)"
+    },
+    "care": {
+      "uz": "40°C da yuvish, bolalar kukuni bilan",
+      "ru": "Стирка при 40°C детским средством"
+    },
+    "images": [
+      "/images/products/romper-sleepy-star-1.svg",
+      "/images/products/romper-sleepy-star-2.svg"
+    ],
+    "isNew": true,
+    "isHit": true,
+    "createdAt": "2026-10-15"
+  },
+  {
+    "id": "8",
+    "slug": "baby-set-bunny",
+    "category": "babies",
+    "name": {
+      "uz": "Chaqaloq to'plami «Bunny» (3 dona)",
+      "ru": "Комплект для малыша «Bunny» (3 предмета)"
+    },
+    "description": {
+      "uz": "Bodi, shimcha va shapkacha. Tug'ruqxonadan chiqish yoki sovg'a uchun ajoyib tanlov.",
+      "ru": "Боди, ползунки и шапочка. Отличный выбор на выписку или в подарок."
+    },
+    "price": 199000,
+    "sizes": [
+      56,
+      62,
+      68,
+      74
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Pudra",
+          "ru": "Пудровый"
+        },
+        "hex": "#F4C9C1"
+      },
+      {
+        "name": {
+          "uz": "Ko'k",
+          "ru": "Голубой"
+        },
+        "hex": "#BFD7EA"
+      }
+    ],
+    "composition": {
+      "uz": "100% organik paxta",
+      "ru": "100% органический хлопок"
+    },
+    "care": {
+      "uz": "40°C da yuvish, ikki tomonidan dazmollash",
+      "ru": "Стирка при 40°C, гладить с двух сторон"
+    },
+    "images": [
+      "/images/products/baby-set-bunny-1.svg",
+      "/images/products/baby-set-bunny-2.svg"
+    ],
+    "isNew": false,
+    "isHit": true,
+    "createdAt": "2026-09-01"
+  },
+  {
+    "id": "9",
+    "slug": "baby-body-basic",
+    "category": "babies",
+    "name": {
+      "uz": "Bodi «Basic» (2 dona)",
+      "ru": "Боди «Basic» (2 шт.)"
+    },
+    "description": {
+      "uz": "Uzun yengli bodi, pastdan kopkalar bilan. Har kungi asosiy kiyim.",
+      "ru": "Боди с длинным рукавом на кнопках снизу. Базовая вещь на каждый день."
+    },
+    "price": 119000,
+    "sizes": [
+      56,
+      62,
+      68,
+      74,
+      80
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Oq",
+          "ru": "Белый"
+        },
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": {
+          "uz": "Bej",
+          "ru": "Бежевый"
+        },
+        "hex": "#E6D5BF"
+      }
+    ],
+    "composition": {
+      "uz": "100% paxta (ribana)",
+      "ru": "100% хлопок (рибана)"
+    },
+    "care": {
+      "uz": "40°C da yuvish",
+      "ru": "Стирка при 40°C"
+    },
+    "images": [
+      "/images/products/baby-body-basic-1.svg"
+    ],
+    "isNew": true,
+    "isHit": false,
+    "createdAt": "2026-10-18"
+  },
+  {
+    "id": "10",
+    "slug": "school-shirt-classic",
+    "category": "school",
+    "name": {
+      "uz": "Maktab ko'ylagi «Classic»",
+      "ru": "Школьная рубашка «Classic»"
+    },
+    "description": {
+      "uz": "Klassik maktab ko'ylagi, kam g'ijimlanadi. Uzun yengli, yoqasi qattiq.",
+      "ru": "Классическая школьная рубашка, мало мнётся. Длинный рукав, плотный воротник."
+    },
+    "price": 129000,
+    "sizes": [
+      122,
+      128,
+      134,
+      140,
+      146,
+      152,
+      158
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "Oq",
+          "ru": "Белый"
+        },
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": {
+          "uz": "Havorang",
+          "ru": "Голубой"
+        },
+        "hex": "#D6E6F5"
+      }
+    ],
+    "composition": {
+      "uz": "65% paxta, 35% poliester",
+      "ru": "65% хлопок, 35% полиэстер"
+    },
+    "care": {
+      "uz": "40°C da yuvish, o'rtacha haroratda dazmollash",
+      "ru": "Стирка при 40°C, гладить при средней температуре"
+    },
+    "images": [
+      "/images/products/school-shirt-classic-1.svg",
+      "/images/products/school-shirt-classic-2.svg"
+    ],
+    "isNew": false,
+    "isHit": true,
+    "createdAt": "2026-08-01"
+  },
+  {
+    "id": "11",
+    "slug": "school-sarafan-grace",
+    "category": "school",
+    "name": {
+      "uz": "Maktab sarafani «Grace»",
+      "ru": "Школьный сарафан «Grace»"
+    },
+    "description": {
+      "uz": "Burmali maktab sarafani, yon tomonida yashirin zamok. Ko'ylak bilan kiyiladi.",
+      "ru": "Школьный сарафан со складками и потайной молнией сбоку. Носится с блузкой."
+    },
+    "price": 219000,
+    "sizes": [
+      122,
+      128,
+      134,
+      140,
+      146,
+      152
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "To'q ko'k",
+          "ru": "Тёмно-синий"
+        },
+        "hex": "#2F3E5C"
+      },
+      {
+        "name": {
+          "uz": "Kulrang",
+          "ru": "Серый"
+        },
+        "hex": "#9AA0A8"
+      }
+    ],
+    "composition": {
+      "uz": "70% poliester, 30% viskoza",
+      "ru": "70% полиэстер, 30% вискоза"
+    },
+    "care": {
+      "uz": "30°C da yuvish, nam mato orqali dazmollash",
+      "ru": "Стирка при 30°C, гладить через влажную ткань"
+    },
+    "images": [
+      "/images/products/school-sarafan-grace-1.svg",
+      "/images/products/school-sarafan-grace-2.svg"
+    ],
+    "isNew": true,
+    "isHit": false,
+    "createdAt": "2026-08-10"
+  },
+  {
+    "id": "12",
+    "slug": "school-suit-scholar",
+    "category": "school",
+    "name": {
+      "uz": "Maktab kostyumi «Scholar»",
+      "ru": "Школьный костюм «Scholar»"
+    },
+    "description": {
+      "uz": "Pidjak va shim — o'g'il bolalar uchun klassik maktab kostyumi. Astarli, mustahkam.",
+      "ru": "Пиджак и брюки — классический школьный костюм для мальчиков. С подкладкой, износостойкий."
+    },
+    "price": 349000,
+    "oldPrice": 399000,
+    "sizes": [
+      122,
+      128,
+      134,
+      140,
+      146,
+      152,
+      158
+    ],
+    "colors": [
+      {
+        "name": {
+          "uz": "To'q ko'k",
+          "ru": "Тёмно-синий"
+        },
+        "hex": "#2F3E5C"
+      },
+      {
+        "name": {
+          "uz": "Qora",
+          "ru": "Чёрный"
+        },
+        "hex": "#2B2B2E"
+      }
+    ],
+    "composition": {
+      "uz": "65% poliester, 35% viskoza; astar 100% poliester",
+      "ru": "65% полиэстер, 35% вискоза; подкладка 100% полиэстер"
+    },
+    "care": {
+      "uz": "Kimyoviy tozalash yoki 30°C da nozik yuvish",
+      "ru": "Химчистка или деликатная стирка при 30°C"
+    },
+    "images": [
+      "/images/products/school-suit-scholar-1.svg",
+      "/images/products/school-suit-scholar-2.svg"
+    ],
+    "isNew": false,
+    "isHit": true,
+    "createdAt": "2026-07-25"
+  }
+]

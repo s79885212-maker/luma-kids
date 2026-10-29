@@ -1,0 +1,20 @@
+[
+  { "height": 56, "age": { "uz": "0–3 oy", "ru": "0–3 мес" }, "chest": 40, "waist": 40 },
+  { "height": 62, "age": { "uz": "3–6 oy", "ru": "3–6 мес" }, "chest": 44, "waist": 43 },
+  { "height": 68, "age": { "uz": "6–9 oy", "ru": "6–9 мес" }, "chest": 46, "waist": 45 },
+  { "height": 74, "age": { "uz": "9–12 oy", "ru": "9–12 мес" }, "chest": 48, "waist": 46 },
+  { "height": 80, "age": { "uz": "1–1,5 yosh", "ru": "1–1,5 года" }, "chest": 50, "waist": 47 },
+  { "height": 86, "age": { "uz": "1,5–2 yosh", "ru": "1,5–2 года" }, "chest": 52, "waist": 48 },
+  { "height": 92, "age": { "uz": "2–3 yosh", "ru": "2–3 года" }, "chest": 54, "waist": 50 },
+  { "height": 98, "age": { "uz": "3–4 yosh", "ru": "3–4 года" }, "chest": 56, "waist": 51 },
+  { "height": 104, "age": { "uz": "4–5 yosh", "ru": "4–5 лет" }, "chest": 58, "waist": 52 },
+  { "height": 110, "age": { "uz": "5–6 yosh", "ru": "5–6 лет" }, "chest": 60, "waist": 54 },
+  { "height": 116, "age": { "uz": "6–7 yosh", "ru": "6–7 лет" }, "chest": 62, "waist": 55 },
+  { "height": 122, "age": { "uz": "7–8 yosh", "ru": "7–8 лет" }, "chest": 64, "waist": 57 },
+  { "height": 128, "age": { "uz": "8–9 yosh", "ru": "8–9 лет" }, "chest": 66, "waist": 58 },
+  { "height": 134, "age": { "uz": "9–10 yosh", "ru": "9–10 лет" }, "chest": 68, "waist": 60 },
+  { "height": 140, "age": { "uz": "10–11 yosh", "ru": "10–11 лет" }, "chest": 70, "waist": 62 },
+  { "height": 146, "age": { "uz": "11–12 yosh", "ru": "11–12 лет" }, "chest": 73, "waist": 63 },
+  { "height": 152, "age": { "uz": "12–13 yosh", "ru": "12–13 лет" }, "chest": 76, "waist": 65 },
+  { "height": 158, "age": { "uz": "13–14 yosh", "ru": "13–14 лет" }, "chest": 79, "waist": 66 }
+]

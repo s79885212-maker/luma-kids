@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<rect width="800" height="600" fill="#EEF6F1"/>
+<rect x="120" y="330" width="560" height="30" rx="10" fill="#C9B3A3"/>
+<rect x="160" y="360" width="20" height="160" fill="#C9B3A3"/><rect x="620" y="360" width="20" height="160" fill="#C9B3A3"/>
+<path d="M300 330 L300 230 Q300 200 330 200 L470 200 Q500 200 500 230 L500 260 L440 260 L440 330 Z" fill="#D9CCF0"/>
+<rect x="420" y="250" width="12" height="60" fill="#8E7A6C"/>
+<circle cx="600" cy="300" r="34" fill="#F4C9C1"/><circle cx="600" cy="300" r="12" fill="#fff"/>
+<text x="400" y="570" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="24" fill="#B49A8C" letter-spacing="4">FOTO 2</text>
+</svg>

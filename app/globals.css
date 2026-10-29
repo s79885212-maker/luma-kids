@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+/* Палитра бренда — из логотипа Luma Kids: малиновый #E40381 и голубой #00A3D6. Меняйте цвета здесь. */
+@theme {
+  --color-cream: #fffafc;
+  --color-ink: #2a2236;
+  --color-muted: #665d70;
+  --color-line: #f2e3ec;
+  /* primary чуть темнее логотипа, чтобы белый текст на кнопках читался */
+  --color-primary: #cf0274;
+  --color-brand: #e40381;
+  --color-primary-dark: #a3025c;
+  --color-accent: #00a3d6;
+  --color-rose: #fde6f1;
+  --color-peach: #ffd1e6;
+  --color-lavender: #eee8fb;
+  --color-sky: #dff3fb;
+  --color-sand: #f4f2f4;
+  /* Telegram темнее фирменного синего — чтобы белый текст на кнопке читался */
+  --color-telegram: #1a7bb0;
+
+  --font-sans: var(--font-nunito), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-nunito), ui-sans-serif, sans-serif;
+
+  --radius-card: 1.5rem;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+}
+
+@utility container-page {
+  @apply mx-auto w-full max-w-6xl px-4 sm:px-6;
+}
+@utility btn {
+  @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-full px-6 font-bold transition active:scale-[0.98] disabled:opacity-60;
+}
+@utility btn-primary {
+  @apply btn bg-primary text-white shadow-[0_6px_20px_-8px_rgba(207,2,116,0.6)] hover:bg-primary-dark;
+}
+@utility btn-outline {
+  @apply btn border-2 border-ink/15 bg-white text-ink hover:border-ink/30;
+}
+@utility btn-telegram {
+  @apply btn bg-telegram text-white hover:brightness-95;
+}
+@utility heading {
+  @apply font-display text-2xl font-extrabold tracking-tight sm:text-3xl;
+}
+@utility field {
+  @apply block w-full rounded-2xl border border-line bg-white px-4 py-3 text-base text-ink outline-none transition placeholder:text-muted/60 focus:border-primary focus:ring-4 focus:ring-primary/15;
+}
+@utility label {
+  @apply mb-1.5 block text-sm font-semibold text-ink;
+}
+@utility card {
+  @apply rounded-(--radius-card) bg-white shadow-[0_2px_20px_-12px_rgba(42,34,54,0.18)];
+}
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
